@@ -1,7 +1,15 @@
 # Table of Contents
 - [Introduction](#Introduction)
   - [Python installation](#Python-installation)
+  - [Invoke python](#Invoke-python)
+  - [Tools for my first program](#Tools-for-my-first-program)
   - [My first program](#My-first-program)
+- [Integer](#Integer)
+  - [Integer operation](#Integer-operation) 
+- [Float](#Float)
+- [String](#String)
+- [File handle](#File-handle)
+- [My second program](#My-second-program)
 
 # Introduction
 Python is an open source, object-oriented  interpreted language which was originally created in the late 1980s, but only became widely used in the 2000s after the release of version 2.0. 
@@ -103,6 +111,9 @@ print "Hi my name is " + name + "and age is " + str(age) # we need to convert ag
 print ("Hi my name is %s and age is %d" %(name,age)) # note that there is no comma after string and variables names
 # More fancier and new output format
 print "Hi my name is {} and half age is {}".format(name, age) 
+#More complex output like below will be explained later
+for x in range(1,11):
+  print '{0:2d} {1:3d} {2:4d}'.format(x, x*x, x*x*x)
 ```
 
 ## My first program
