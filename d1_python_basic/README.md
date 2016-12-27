@@ -1,5 +1,5 @@
 # Table of Contents
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
   - [Python installation](#python-installation)
   - [Invoke python](#invoke-python)
   - [Tools for my first program](#tools-for-my-first-program)
