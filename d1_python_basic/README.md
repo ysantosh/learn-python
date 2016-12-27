@@ -1,15 +1,15 @@
 # Table of Contents
 - [Introduction](#Introduction)
-  - [Python installation](#Python-installation)
-  - [Invoke python](#Invoke-python)
-  - [Tools for my first program](#Tools-for-my-first-program)
-  - [My first program](#My-first-program)
-- [Integer](#Integer)
-  - [Integer operation](#Integer-operation) 
-- [Float](#Float)
-- [String](#String)
-- [File handle](#File-handle)
-- [My second program](#My-second-program)
+  - [Python installation](#python-installation)
+  - [Invoke python](#invoke-python)
+  - [Tools for my first program](#tools-for-my-first-program)
+  - [My first program](#my-first-program)
+- [Integer](#integer)
+  - [Integer operation](#integer-operation) 
+- [Float](#float)
+- [String](#string)
+- [File handle](#file-handle)
+- [My second program](#my-second-program)
 
 # Introduction
 Python is an open source, object-oriented  interpreted language which was originally created in the late 1980s, but only became widely used in the 2000s after the release of version 2.0. 
